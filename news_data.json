@@ -1,0 +1,210 @@
+{
+  "bbc_world": [],
+  "bbc_tech": [],
+  "guardian_uk": [],
+  "guardian_tech": [],
+  "reddit_worldnews": [],
+  "reddit_technology": [],
+  "hackernews": [
+    {
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "points": "68 points",
+      "author": "Cider9986",
+      "comments": "52 minutes ago",
+      "rank": 1
+    },
+    {
+      "title": "Zig Zen Update",
+      "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+      "points": "17 points",
+      "author": "tosh",
+      "comments": "58 minutes ago",
+      "rank": 2
+    },
+    {
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "points": "343 points",
+      "author": "0xkato",
+      "comments": "7 hours ago",
+      "rank": 3
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "points": "167 points",
+      "author": "transistor-man",
+      "comments": "9 hours ago",
+      "rank": 4
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "points": "421 points",
+      "author": "maltalex",
+      "comments": "4 hours ago",
+      "rank": 5
+    },
+    {
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "points": "72 points",
+      "author": "gostsamo",
+      "comments": "5 hours ago",
+      "rank": 6
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "points": "366 points",
+      "author": "speckx",
+      "comments": "18 hours ago",
+      "rank": 7
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "points": "394 points",
+      "author": "janpot",
+      "comments": "18 hours ago",
+      "rank": 8
+    },
+    {
+      "title": "Social Cache Busting",
+      "url": "https://www.autodidacts.io/social-cache-busting/",
+      "points": "29 points",
+      "author": "surprisetalk",
+      "comments": "4 hours ago",
+      "rank": 9
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "points": "395 points",
+      "author": "coffeemug",
+      "comments": "17 hours ago",
+      "rank": 10
+    },
+    {
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "points": "331 points",
+      "author": "andrehacker",
+      "comments": "16 hours ago",
+      "rank": 11
+    },
+    {
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "points": "91 points",
+      "author": "paulmooreparks",
+      "comments": "6 hours ago",
+      "rank": 12
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "points": "349 points",
+      "author": "theanonymousone",
+      "comments": "17 hours ago",
+      "rank": 13
+    },
+    {
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "points": "408 points",
+      "author": "logicprog",
+      "comments": "20 hours ago",
+      "rank": 14
+    },
+    {
+      "title": "We shrank our TimescaleDB chunks from 30 days to 7",
+      "url": "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5",
+      "points": "12 points",
+      "author": "yask123",
+      "comments": "2 hours ago",
+      "rank": 15
+    },
+    {
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click/",
+      "points": "529 points",
+      "author": "riddley",
+      "comments": "21 hours ago",
+      "rank": 16
+    },
+    {
+      "title": "Ten Years of Franz",
+      "url": "https://meetfranz.com/blog/ten-years-of-franz",
+      "points": "30 points",
+      "author": "tosh",
+      "comments": "4 hours ago",
+      "rank": 17
+    },
+    {
+      "title": "Lockdown Mode",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "points": "56 points",
+      "author": "berlianta",
+      "comments": "6 hours ago",
+      "rank": 18
+    },
+    {
+      "title": "The perils of UUID primary keys in SQLite",
+      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+      "points": "87 points",
+      "author": "emschwartz",
+      "comments": "10 hours ago",
+      "rank": 19
+    },
+    {
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "points": "176 points",
+      "author": "laxmena",
+      "comments": "16 hours ago",
+      "rank": 20
+    },
+    {
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "points": "444 points",
+      "author": "toomuchtodo",
+      "comments": "16 hours ago",
+      "rank": 21
+    },
+    {
+      "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+      "url": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
+      "points": "42 points",
+      "author": "pjmlp",
+      "comments": "9 hours ago",
+      "rank": 22
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "points": "308 points",
+      "author": "jsve",
+      "comments": "17 hours ago",
+      "rank": 23
+    },
+    {
+      "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+      "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+      "points": "87 points",
+      "author": "lordgilman",
+      "comments": "16 hours ago",
+      "rank": 24
+    },
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "points": "395 points",
+      "author": "mimorigasaka",
+      "comments": "1 day ago",
+      "rank": 25
+    }
+  ]
+}
